@@ -1,4 +1,4 @@
-package debug
+package mina
 
 import (
 	"bytes"

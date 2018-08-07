@@ -1,4 +1,7 @@
 # mina
+[![Build Status](https://travis-ci.org/solarhell/mina.svg?branch=master)](https://travis-ci.org/solarhell/mina)
+
+
 Golang 微信小程序 SDK
 
 ## done
